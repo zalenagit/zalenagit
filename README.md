@@ -2,7 +2,7 @@
 
 **Cloud Security Engineer · Multicloud CSPM · Security Compliance & Controls** · open to remote roles
 
-Since 2022 I've worked in multicloud security, where I've built **100+ compliance and alerting controls** for AWS, Azure, Google Cloud and Alibaba Cloud. I manage them as code through GitHub pull requests. I also own the weekly High/Medium alert KPIs, onboarding coverage (Python + REST APIs) and the team wiki. I'm currently in the **Merit America Cybersecurity program** (Google Cybersecurity Professional Certificate).
+Since 2022 I've worked in multicloud security, where me and my team built **100+ compliance and alerting controls** for AWS, Azure, Google Cloud and Alibaba Cloud. I manage them as code through GitHub pull requests. I also own the weekly High/Medium alert KPIs, onboarding coverage (Python + REST APIs) and the team wiki. I'm currently in the **Merit America Cybersecurity program** (Google Cybersecurity Professional Certificate).
 
 ### 🔐 Security projects
 
