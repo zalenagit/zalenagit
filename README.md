@@ -1,6 +1,6 @@
 ## Hi, I'm Zalina 👋
 
-**QA and devops engineer** · open to remote roles
+**AI-QA Engineering Analyst | Test Automation (Selenium, Cypress, Playwright) | API & Mobile Testing | Cybersecurity Enthusiast | AWS Certified** · open to remote roles
 
 
 ### 🔐 Security projects
